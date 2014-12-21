@@ -61,7 +61,7 @@
 		<div id="b-box">
 			武田担当</br>
 			<?php
-			require("osusume-a.html")
+			require("osusume-b.html")
 			?>
 		</div>
 
@@ -76,14 +76,14 @@
 		<div id="c-box">
 			千葉担当</br>
 			<?php
-			require("osusume-a.html")
+			require("osusume-c.html")
 			?>
 		</div>
 
 		<div id="d-box">
 			南雲担当</br>
 			<?php
-			require("osusume-a.html")
+			require("osusume-d.html")
 			?>
 		</div>
 
