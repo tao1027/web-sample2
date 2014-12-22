@@ -35,7 +35,7 @@
 			〜Shinnenkai〜</br>
     		NECO.Lab 2015</br>
     		2015.1</br>
-    		Comming Soon</br>
+    		Coming Soon...</br>
     	</Font>
 	</div>
 
