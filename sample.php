@@ -13,7 +13,8 @@
 
 <div id="site-box">
 
-	<div id = "site-box-had">
+	<div id = "site-box-had" Div Align="left">
+		<Font Size="6"><font color = "#7a6045">新年会、しようよ。</font></Font>
 	</div>
 
 	<div id = "site-box-side-a">
@@ -28,9 +29,14 @@
 		</br>
 	</div>
 
-	<div id = "site-box-right">
-		〜新年会〜</br>
-    	NECO.Lab 2015
+	<div id = "site-box-right" background="back2.png">
+		<Font Size="6">
+			</br>
+			〜Shinnenkai〜</br>
+    		NECO.Lab 2015</br>
+    		2015.1</br>
+    		Comming Soon</br>
+    	</Font>
 	</div>
 
 	<div id = "site-box-side-c">
@@ -51,17 +57,17 @@
 
 	<div id = "ab-box">
 		
-		<div id="a-box">
-			押見担当</br>
+		<div id="a-box" >
+			<Font Size="5">たおのおすすめ</Font></br>
 			<?php
-			require("osusume-a.html")
+			require("osusume-tao.html")
 			?>
 		</div>
 
 		<div id="b-box">
-			武田担当</br>
+			<Font Size="5">まゆのおすすめ</Font></br>
 			<?php
-			require("osusume-b.html")
+			require("osusume-mayu.html")
 			?>
 		</div>
 
@@ -74,16 +80,16 @@
 	<div id = "cd-box">	
 		
 		<div id="c-box">
-			千葉担当</br>
+			<Font Size="5">よしきのおすすめ</Font></br>
 			<?php
-			require("osusume-c.html")
+			require("osusume-yosiki.html")
 			?>
 		</div>
 
 		<div id="d-box">
-			南雲担当</br>
+			<Font Size="5">かおりのおすすめ</Font></br>
 			<?php
-			require("osusume-d.html")
+			require("osusume-kaori.html")
 			?>
 		</div>
 
