@@ -1,5 +1,6 @@
 body {
  text-align:center;
+ color: #e6dcd9;
 }
 
 img{width:auto;
@@ -41,9 +42,10 @@ img{width:auto;
 #site-box-right {
 	padding-bottom: 10000px;
 margin-bottom: -10000px;
-	background:#8B0000;
+	background-image:url("./back2.png");
 	width:47%;
 	float: left;
+	background-repeat: repeat;
 }
 
 #site-box-side-c{
@@ -58,7 +60,6 @@ margin-bottom: -10000px;
 }
 
 #osusume-side-a{
-	background:#8B0000;
 	width:2%;
 	float: left;
 }
@@ -71,13 +72,11 @@ margin-bottom: -10000px;
 }
 
 #osusume-side-b{
-	background:#8B0000;
 	width:2%;
 	float: left;
 }
 
 #cd-box{
-	 /*background:#800080;*/
 	 width:47%;
      float: left;
      height: 500px;
@@ -85,41 +84,40 @@ margin-bottom: -10000px;
 }
 
 #osusume-side-c{
-	background:#8B0000;
 	width:2%;
 	float: right;
 }
 
 #a-box {
-	background:#0000ff;
 	width:49%;
 	float: left;
-	height: 500px;
+	height: 800px;
+	background-image:url("./c2.png");
     }
 
 #osusume-a-box{
-	background:#DCDCDC;
 	width:95%;
+	height: 800px;
 	margin: 0 auto;
 	}	
 
 #b-box {
-	 background:#00ffff;
 	 width:49%;
      float: right;
-     height: 500px;
+	 height: 800px;
+	 background-image:url("./A4.png");
 }
 
 #c-box {
-	 background:#ffff00;
 	 width:49%;
      float: left;
-     height: 500px;
+	 height: 800px;
+	 background-image:url("./A1.png");
 }
 
 #d-box {	
-	background:#ff00ff;
 	width:49%;
 	float: right;
-	height: 500px;    
+	 height: 800px;
+	 background-image:url("./b3.png");    
 }
